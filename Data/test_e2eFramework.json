@@ -1,14 +1,6 @@
 {
   "data" : [
     {
-      "URL" : "https://rahulshettyacademy.com/loginpagePractise/",
-      "username" : "rahulshettyacademy",
-      "password" : "learning",
-      "productName" : "Blackberry",
-      "country" : "ind"
-    },
-
-    {
       "URL": "https://rahulshettyacademy.com/loginpagePractise/",
       "username": "rahulshettyacademy",
       "password": "learning",
